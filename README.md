@@ -1,4 +1,2 @@
-# lista-1-java-una
-Lista de Exercício 1 em Java
-
-Meu perfil no [Linkedin](https://duckduckgo.com).
+# lista-exercicio-1-java
+Lista de Exercícios 1 em Java
